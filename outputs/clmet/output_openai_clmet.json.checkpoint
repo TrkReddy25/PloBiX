@@ -1,0 +1,8582 @@
+[
+  {
+    "id": "clmet_crowd_mob_2",
+    "base_word": "crowd",
+    "exchange_word": "mob",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_multitude_rabble_2",
+    "base_word": "multitude",
+    "exchange_word": "rabble",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_crowd_mob_5",
+    "base_word": "crowd",
+    "exchange_word": "mob",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_crowd_mob_3",
+    "base_word": "crowd",
+    "exchange_word": "mob",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_crowd_mob_1",
+    "base_word": "crowd",
+    "exchange_word": "mob",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_multitude_rabble_1",
+    "base_word": "multitude",
+    "exchange_word": "rabble",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_crowd_mob_4",
+    "base_word": "crowd",
+    "exchange_word": "mob",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_crowd_mob_6",
+    "base_word": "crowd",
+    "exchange_word": "mob",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_multitude_rabble_3",
+    "base_word": "multitude",
+    "exchange_word": "rabble",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_multitude_rabble_6",
+    "base_word": "multitude",
+    "exchange_word": "rabble",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_multitude_rabble_4",
+    "base_word": "multitude",
+    "exchange_word": "rabble",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_follower_minion_1",
+    "base_word": "follower",
+    "exchange_word": "minion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_follower_minion_4",
+    "base_word": "follower",
+    "exchange_word": "minion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_multitude_rabble_5",
+    "base_word": "multitude",
+    "exchange_word": "rabble",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_follower_minion_3",
+    "base_word": "follower",
+    "exchange_word": "minion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_follower_minion_2",
+    "base_word": "follower",
+    "exchange_word": "minion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_follower_minion_5",
+    "base_word": "follower",
+    "exchange_word": "minion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_writer_scribbler_3",
+    "base_word": "writer",
+    "exchange_word": "scribbler",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_writer_scribbler_1",
+    "base_word": "writer",
+    "exchange_word": "scribbler",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_follower_minion_6",
+    "base_word": "follower",
+    "exchange_word": "minion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_writer_scribbler_2",
+    "base_word": "writer",
+    "exchange_word": "scribbler",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_writer_scribbler_4",
+    "base_word": "writer",
+    "exchange_word": "scribbler",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_writer_scribbler_5",
+    "base_word": "writer",
+    "exchange_word": "scribbler",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_writer_scribbler_6",
+    "base_word": "writer",
+    "exchange_word": "scribbler",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_lawyer_pettifogger_1",
+    "base_word": "lawyer",
+    "exchange_word": "pettifogger",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_lawyer_pettifogger_4",
+    "base_word": "lawyer",
+    "exchange_word": "pettifogger",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_physician_quack_1",
+    "base_word": "physician",
+    "exchange_word": "quack",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_lawyer_pettifogger_3",
+    "base_word": "lawyer",
+    "exchange_word": "pettifogger",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_lawyer_pettifogger_2",
+    "base_word": "lawyer",
+    "exchange_word": "pettifogger",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_lawyer_pettifogger_5",
+    "base_word": "lawyer",
+    "exchange_word": "pettifogger",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_physician_quack_2",
+    "base_word": "physician",
+    "exchange_word": "quack",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_lawyer_pettifogger_6",
+    "base_word": "lawyer",
+    "exchange_word": "pettifogger",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_physician_quack_3",
+    "base_word": "physician",
+    "exchange_word": "quack",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_physician_quack_4",
+    "base_word": "physician",
+    "exchange_word": "quack",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_banker_usurer_2",
+    "base_word": "banker",
+    "exchange_word": "usurer",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_physician_quack_6",
+    "base_word": "physician",
+    "exchange_word": "quack",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_banker_usurer_1",
+    "base_word": "banker",
+    "exchange_word": "usurer",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_banker_usurer_3",
+    "base_word": "banker",
+    "exchange_word": "usurer",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_physician_quack_5",
+    "base_word": "physician",
+    "exchange_word": "quack",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_banker_usurer_4",
+    "base_word": "banker",
+    "exchange_word": "usurer",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_banker_usurer_5",
+    "base_word": "banker",
+    "exchange_word": "usurer",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_speech_harangue_1",
+    "base_word": "speech",
+    "exchange_word": "harangue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_speech_harangue_2",
+    "base_word": "speech",
+    "exchange_word": "harangue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_speech_harangue_3",
+    "base_word": "speech",
+    "exchange_word": "harangue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_banker_usurer_6",
+    "base_word": "banker",
+    "exchange_word": "usurer",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_speech_harangue_6",
+    "base_word": "speech",
+    "exchange_word": "harangue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_speech_harangue_4",
+    "base_word": "speech",
+    "exchange_word": "harangue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_speech_harangue_5",
+    "base_word": "speech",
+    "exchange_word": "harangue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_enthusiasm_fanaticism_1",
+    "base_word": "enthusiasm",
+    "exchange_word": "fanaticism",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_enthusiasm_fanaticism_2",
+    "base_word": "enthusiasm",
+    "exchange_word": "fanaticism",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_enthusiasm_fanaticism_4",
+    "base_word": "enthusiasm",
+    "exchange_word": "fanaticism",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_enthusiasm_fanaticism_3",
+    "base_word": "enthusiasm",
+    "exchange_word": "fanaticism",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_enthusiasm_fanaticism_5",
+    "base_word": "enthusiasm",
+    "exchange_word": "fanaticism",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_enthusiasm_fanaticism_6",
+    "base_word": "enthusiasm",
+    "exchange_word": "fanaticism",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_religion_superstition_1",
+    "base_word": "religion",
+    "exchange_word": "superstition",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_religion_superstition_2",
+    "base_word": "religion",
+    "exchange_word": "superstition",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_religion_superstition_3",
+    "base_word": "religion",
+    "exchange_word": "superstition",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_religion_superstition_5",
+    "base_word": "religion",
+    "exchange_word": "superstition",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_religion_superstition_4",
+    "base_word": "religion",
+    "exchange_word": "superstition",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_frugality_stinginess_1",
+    "base_word": "frugality",
+    "exchange_word": "stinginess",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_religion_superstition_6",
+    "base_word": "religion",
+    "exchange_word": "superstition",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_frugality_stinginess_2",
+    "base_word": "frugality",
+    "exchange_word": "stinginess",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_officials_placemen_1",
+    "base_word": "officials",
+    "exchange_word": "placemen",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_frugality_stinginess_3",
+    "base_word": "frugality",
+    "exchange_word": "stinginess",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_officials_placemen_2",
+    "base_word": "officials",
+    "exchange_word": "placemen",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_officials_placemen_4",
+    "base_word": "officials",
+    "exchange_word": "placemen",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_officials_placemen_3",
+    "base_word": "officials",
+    "exchange_word": "placemen",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_officials_placemen_6",
+    "base_word": "officials",
+    "exchange_word": "placemen",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_officials_placemen_5",
+    "base_word": "officials",
+    "exchange_word": "placemen",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_soldiers_hirelings_1",
+    "base_word": "soldiers",
+    "exchange_word": "hirelings",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_soldiers_hirelings_3",
+    "base_word": "soldiers",
+    "exchange_word": "hirelings",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_soldiers_hirelings_2",
+    "base_word": "soldiers",
+    "exchange_word": "hirelings",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_soldiers_hirelings_4",
+    "base_word": "soldiers",
+    "exchange_word": "hirelings",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_soldiers_hirelings_5",
+    "base_word": "soldiers",
+    "exchange_word": "hirelings",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_soldiers_hirelings_6",
+    "base_word": "soldiers",
+    "exchange_word": "hirelings",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_peasants_yokels_1",
+    "base_word": "peasants",
+    "exchange_word": "yokels",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_peasants_yokels_2",
+    "base_word": "peasants",
+    "exchange_word": "yokels",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_peasants_yokels_3",
+    "base_word": "peasants",
+    "exchange_word": "yokels",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_peasants_yokels_4",
+    "base_word": "peasants",
+    "exchange_word": "yokels",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_peasants_yokels_5",
+    "base_word": "peasants",
+    "exchange_word": "yokels",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_peasants_yokels_6",
+    "base_word": "peasants",
+    "exchange_word": "yokels",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_taxes_exactions_1",
+    "base_word": "taxes",
+    "exchange_word": "exactions",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_taxes_exactions_2",
+    "base_word": "taxes",
+    "exchange_word": "exactions",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_taxes_exactions_4",
+    "base_word": "taxes",
+    "exchange_word": "exactions",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_taxes_exactions_3",
+    "base_word": "taxes",
+    "exchange_word": "exactions",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_taxes_exactions_5",
+    "base_word": "taxes",
+    "exchange_word": "exactions",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_taxes_exactions_6",
+    "base_word": "taxes",
+    "exchange_word": "exactions",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_statesman_demagogue_1",
+    "base_word": "statesman",
+    "exchange_word": "demagogue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_statesman_demagogue_2",
+    "base_word": "statesman",
+    "exchange_word": "demagogue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_statesman_demagogue_4",
+    "base_word": "statesman",
+    "exchange_word": "demagogue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_statesman_demagogue_3",
+    "base_word": "statesman",
+    "exchange_word": "demagogue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_statesman_demagogue_5",
+    "base_word": "statesman",
+    "exchange_word": "demagogue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_statesman_demagogue_6",
+    "base_word": "statesman",
+    "exchange_word": "demagogue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_foreigners_aliens_1",
+    "base_word": "foreigners",
+    "exchange_word": "aliens",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_foreigners_aliens_2",
+    "base_word": "foreigners",
+    "exchange_word": "aliens",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_foreigners_aliens_3",
+    "base_word": "foreigners",
+    "exchange_word": "aliens",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_foreigners_aliens_4",
+    "base_word": "foreigners",
+    "exchange_word": "aliens",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_foreigners_aliens_6",
+    "base_word": "foreigners",
+    "exchange_word": "aliens",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_foreigners_aliens_5",
+    "base_word": "foreigners",
+    "exchange_word": "aliens",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_reformer_agitator_2",
+    "base_word": "reformer",
+    "exchange_word": "agitator",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_reformer_agitator_1",
+    "base_word": "reformer",
+    "exchange_word": "agitator",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_reformer_agitator_3",
+    "base_word": "reformer",
+    "exchange_word": "agitator",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_reformer_agitator_4",
+    "base_word": "reformer",
+    "exchange_word": "agitator",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_reformer_agitator_5",
+    "base_word": "reformer",
+    "exchange_word": "agitator",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_reformer_agitator_6",
+    "base_word": "reformer",
+    "exchange_word": "agitator",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_negotiation_intrigue_1",
+    "base_word": "negotiation",
+    "exchange_word": "intrigue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_negotiation_intrigue_2",
+    "base_word": "negotiation",
+    "exchange_word": "intrigue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_negotiation_intrigue_4",
+    "base_word": "negotiation",
+    "exchange_word": "intrigue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_negotiation_intrigue_3",
+    "base_word": "negotiation",
+    "exchange_word": "intrigue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_negotiation_intrigue_5",
+    "base_word": "negotiation",
+    "exchange_word": "intrigue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_negotiation_intrigue_6",
+    "base_word": "negotiation",
+    "exchange_word": "intrigue",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_government_regime_1",
+    "base_word": "government",
+    "exchange_word": "regime",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_government_regime_2",
+    "base_word": "government",
+    "exchange_word": "regime",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_government_regime_3",
+    "base_word": "government",
+    "exchange_word": "regime",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_government_regime_4",
+    "base_word": "government",
+    "exchange_word": "regime",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_government_regime_5",
+    "base_word": "government",
+    "exchange_word": "regime",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_government_regime_6",
+    "base_word": "government",
+    "exchange_word": "regime",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_servants_menials_1",
+    "base_word": "servants",
+    "exchange_word": "menials",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_servants_menials_2",
+    "base_word": "servants",
+    "exchange_word": "menials",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_servants_menials_3",
+    "base_word": "servants",
+    "exchange_word": "menials",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_servants_menials_4",
+    "base_word": "servants",
+    "exchange_word": "menials",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_servants_menials_5",
+    "base_word": "servants",
+    "exchange_word": "menials",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_servants_menials_6",
+    "base_word": "servants",
+    "exchange_word": "menials",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_labourers_drudges_1",
+    "base_word": "labourers",
+    "exchange_word": "drudges",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_labourers_drudges_2",
+    "base_word": "labourers",
+    "exchange_word": "drudges",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_labourers_drudges_3",
+    "base_word": "labourers",
+    "exchange_word": "drudges",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_labourers_drudges_4",
+    "base_word": "labourers",
+    "exchange_word": "drudges",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_labourers_drudges_5",
+    "base_word": "labourers",
+    "exchange_word": "drudges",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_labourers_drudges_6",
+    "base_word": "labourers",
+    "exchange_word": "drudges",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_natives_savages_1",
+    "base_word": "natives",
+    "exchange_word": "savages",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_natives_savages_2",
+    "base_word": "natives",
+    "exchange_word": "savages",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_natives_savages_3",
+    "base_word": "natives",
+    "exchange_word": "savages",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_natives_savages_4",
+    "base_word": "natives",
+    "exchange_word": "savages",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_natives_savages_6",
+    "base_word": "natives",
+    "exchange_word": "savages",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_natives_savages_5",
+    "base_word": "natives",
+    "exchange_word": "savages",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_merchant_huckster_1",
+    "base_word": "merchant",
+    "exchange_word": "huckster",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_merchant_huckster_2",
+    "base_word": "merchant",
+    "exchange_word": "huckster",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_merchant_huckster_4",
+    "base_word": "merchant",
+    "exchange_word": "huckster",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_merchant_huckster_3",
+    "base_word": "merchant",
+    "exchange_word": "huckster",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_merchant_huckster_5",
+    "base_word": "merchant",
+    "exchange_word": "huckster",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_merchant_huckster_6",
+    "base_word": "merchant",
+    "exchange_word": "huckster",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_the-poor_the-paupers_1",
+    "base_word": "the poor",
+    "exchange_word": "the paupers",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_the-poor_the-paupers_2",
+    "base_word": "the poor",
+    "exchange_word": "the paupers",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_the-poor_the-paupers_3",
+    "base_word": "the poor",
+    "exchange_word": "the paupers",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_the-poor_the-paupers_4",
+    "base_word": "the poor",
+    "exchange_word": "the paupers",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_the-poor_the-paupers_5",
+    "base_word": "the poor",
+    "exchange_word": "the paupers",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_the-poor_the-paupers_6",
+    "base_word": "the poor",
+    "exchange_word": "the paupers",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 1,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_ship_vessel_1",
+    "base_word": "ship",
+    "exchange_word": "vessel",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_ship_vessel_2",
+    "base_word": "ship",
+    "exchange_word": "vessel",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_ship_vessel_3",
+    "base_word": "ship",
+    "exchange_word": "vessel",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_ship_vessel_4",
+    "base_word": "ship",
+    "exchange_word": "vessel",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_ship_vessel_5",
+    "base_word": "ship",
+    "exchange_word": "vessel",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_ship_vessel_6",
+    "base_word": "ship",
+    "exchange_word": "vessel",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_answer_reply_2",
+    "base_word": "answer",
+    "exchange_word": "reply",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_answer_reply_1",
+    "base_word": "answer",
+    "exchange_word": "reply",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_answer_reply_3",
+    "base_word": "answer",
+    "exchange_word": "reply",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_answer_reply_4",
+    "base_word": "answer",
+    "exchange_word": "reply",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_answer_reply_5",
+    "base_word": "answer",
+    "exchange_word": "reply",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_answer_reply_6",
+    "base_word": "answer",
+    "exchange_word": "reply",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_gift_present_1",
+    "base_word": "gift",
+    "exchange_word": "present",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_gift_present_2",
+    "base_word": "gift",
+    "exchange_word": "present",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_gift_present_3",
+    "base_word": "gift",
+    "exchange_word": "present",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_gift_present_4",
+    "base_word": "gift",
+    "exchange_word": "present",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_gift_present_5",
+    "base_word": "gift",
+    "exchange_word": "present",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_gift_present_6",
+    "base_word": "gift",
+    "exchange_word": "present",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_friend_companion_2",
+    "base_word": "friend",
+    "exchange_word": "companion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_friend_companion_1",
+    "base_word": "friend",
+    "exchange_word": "companion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_friend_companion_3",
+    "base_word": "friend",
+    "exchange_word": "companion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_friend_companion_4",
+    "base_word": "friend",
+    "exchange_word": "companion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_friend_companion_5",
+    "base_word": "friend",
+    "exchange_word": "companion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_friend_companion_6",
+    "base_word": "friend",
+    "exchange_word": "companion",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_house_dwelling_1",
+    "base_word": "house",
+    "exchange_word": "dwelling",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_house_dwelling_2",
+    "base_word": "house",
+    "exchange_word": "dwelling",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_house_dwelling_3",
+    "base_word": "house",
+    "exchange_word": "dwelling",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_house_dwelling_4",
+    "base_word": "house",
+    "exchange_word": "dwelling",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_house_dwelling_5",
+    "base_word": "house",
+    "exchange_word": "dwelling",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_house_dwelling_6",
+    "base_word": "house",
+    "exchange_word": "dwelling",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_stream_brook_1",
+    "base_word": "stream",
+    "exchange_word": "brook",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_stream_brook_2",
+    "base_word": "stream",
+    "exchange_word": "brook",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_stream_brook_3",
+    "base_word": "stream",
+    "exchange_word": "brook",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_stream_brook_4",
+    "base_word": "stream",
+    "exchange_word": "brook",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_stream_brook_5",
+    "base_word": "stream",
+    "exchange_word": "brook",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_stream_brook_6",
+    "base_word": "stream",
+    "exchange_word": "brook",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_road_highway_1",
+    "base_word": "road",
+    "exchange_word": "highway",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_road_highway_2",
+    "base_word": "road",
+    "exchange_word": "highway",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_road_highway_3",
+    "base_word": "road",
+    "exchange_word": "highway",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_road_highway_4",
+    "base_word": "road",
+    "exchange_word": "highway",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_road_highway_5",
+    "base_word": "road",
+    "exchange_word": "highway",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_shop_store_1",
+    "base_word": "shop",
+    "exchange_word": "store",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_shop_store_2",
+    "base_word": "shop",
+    "exchange_word": "store",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_road_highway_6",
+    "base_word": "road",
+    "exchange_word": "highway",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_shop_store_3",
+    "base_word": "shop",
+    "exchange_word": "store",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_shop_store_4",
+    "base_word": "shop",
+    "exchange_word": "store",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_shop_store_5",
+    "base_word": "shop",
+    "exchange_word": "store",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        }
+      }
+    }
+  },
+  {
+    "id": "clmet_shop_store_6",
+    "base_word": "shop",
+    "exchange_word": "store",
+    "golden_truthfulness_base_claim": true,
+    "shift": "none",
+    "axis": "none",
+    "judgmental_base": 0,
+    "judgmental_exchange": 0,
+    "truthfulness_probability": {
+      "exchange_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      },
+      "base_claim": {
+        "simple_prompt": {
+          "gpt4_1_mini": [
+            1,
+            1,
+            1
+          ]
+        },
+        "advanced_prompt": {
+          "gpt4_1_mini": [
+            0,
+            0,
+            0
+          ]
+        }
+      }
+    }
+  }
+]

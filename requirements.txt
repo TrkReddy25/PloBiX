@@ -1,0 +1,17 @@
+# Prompting (pinned majors: newer SDKs changed the call signatures used here)
+openai>=1.40,<2
+anthropic>=0.34,<1
+pandas
+tqdm
+# Analysis
+numpy
+statsmodels
+matplotlib
+# CLMET download / pair building
+huggingface_hub
+pyarrow
+# Poster rendering (then run: playwright install chromium)
+playwright
+qrcode
+pypdf
+reportlab

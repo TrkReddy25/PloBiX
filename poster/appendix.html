@@ -1,0 +1,60 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><title>Appendix – Loaded words, shifted verdicts</title>
+<style>
+@page{size:A4;margin:22mm 22mm 20mm}
+body{font-family:'Source Sans 3',sans-serif;font-size:11pt;line-height:1.45;color:#0b0b0b}
+h1{font-size:20pt;margin:0 0 2mm}
+.sub{color:#52514e;margin-bottom:8mm}
+h2{font-size:14pt;margin:8mm 0 3mm;border-bottom:.4mm solid #0b0b0b;padding-bottom:1mm}
+ol{padding-left:7mm}
+li{margin-bottom:2.5mm}
+.tag{font-size:9pt;color:#52514e;text-transform:uppercase;letter-spacing:.05em}
+.page{page-break-before:always}
+.box{border:.4mm dashed #8a8984;padding:8mm;margin-top:6mm;color:#52514e}
+code{font-size:10pt}
+</style></head><body>
+<h1>Appendix</h1>
+<div class="sub">Loaded words, shifted verdicts: Does the PolBiX x-phemism effect replicate in GPT-4.1 mini and Claude Haiku 4.5?<br>
+Raja Kishore Reddy Talakola · Student ID 1866163 · NLP Module · Universität Trier · Examiner: Simon Münker · September 2026</div>
+
+<h2>A. References</h2>
+<div class="tag">Academic sources</div>
+<ol>
+<li>Jakob, C., Harbecke, D., Parschan, P., Wenzel Neves, P., &amp; Schmitt, V. (2025). PolBiX: Detecting LLMs’ Political Bias in Fact-Checking through X-phemisms. In <i>Findings of the Association for Computational Linguistics: EMNLP 2025</i>. arXiv:2509.15335.</li>
+<li>Feng, S., Park, C. Y., Liu, Y., &amp; Tsvetkov, Y. (2023). From Pretraining Data to Language Models to Downstream Tasks: Tracking the Trails of Political Biases Leading to Unfair NLP Models. In <i>Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (ACL 2023)</i>.</li>
+<li>Rozado, D. (2024). The political preferences of LLMs. <i>PLOS ONE</i>, 19(7), e0306621. https://doi.org/10.1371/journal.pone.0306621</li>
+<li>Santurkar, S., Durmus, E., Ladhak, F., Lee, C., Liang, P., &amp; Hashimoto, T. (2023). Whose Opinions Do Language Models Reflect? In <i>Proceedings of the 40th International Conference on Machine Learning (ICML 2023)</i>, PMLR 202.</li>
+<li>De Smet, H. (2005). A corpus of Late Modern English texts. <i>ICAME Journal</i>, 29, 69–82.</li>
+<li>Efron, B., &amp; Tibshirani, R. J. (1993). <i>An Introduction to the Bootstrap</i>. Chapman &amp; Hall/CRC.</li>
+<li>Seabold, S., &amp; Perktold, J. (2010). Statsmodels: Econometric and statistical modeling with Python. In <i>Proceedings of the 9th Python in Science Conference (SciPy 2010)</i>.</li>
+</ol>
+<div class="tag">Datasets, model documentation and software</div>
+<ol start="8">
+<li>Jakob, C. et al. (2025). PolBiX dataset and evaluation scripts (<code>dataset.csv</code>, <code>evaluate.py</code>, <code>plot.py</code>). GitHub: https://github.com/XplaiNLP/PolBiX (CC BY-NC 4.0).</li>
+<li>De Smet, H., Flach, S., Diller, H.-J., &amp; Tyrkkö, J. (2015). <i>The Corpus of Late Modern English Texts, version 3.1 (CLMET3.1)</i>. https://fedora.clarin-d.uni-saarland.de/clmet/clmet.html; plain-text Parquet mirror used: https://huggingface.co/datasets/biglam/clmet_3_1 (CC BY-SA 4.0).</li>
+<li>OpenAI (2025). Introducing GPT-4.1 in the API (model card / documentation for <code>gpt-4.1-mini</code>). https://openai.com/index/gpt-4-1/</li>
+<li>Anthropic (2025). System Card: Claude Haiku 4.5 (October 2025). https://www.anthropic.com/claude-haiku-4-5-system-card</li>
+</ol>
+
+<h2>B. Reproducibility</h2>
+<p>Code, prompts, the 195 CLMET sentence pairs and all raw model outputs: <b>REPO_URL</b>.</p>
+<ol>
+<li><code>run_polbix.py</code> — prompts both models (temperature 0, 3 runs, max 5 output tokens) with the original German prompts (PolBiX) or their English translations (CLMET); rate-limited, resumable.</li>
+<li><code>build_clmet_pairs.py</code> — samples candidate sentences from CLMET 3.1 and swaps one noun; the final 195 pairs were then reviewed one by one (AI-assisted) for word sense and grammaticality (<code>clmet_pairs.csv</code>).</li>
+<li><code>poster/stats.py</code>, <code>poster/make_poster.py</code> — Δ P(true), bootstrap CIs and the authors’ logistic regression; builds this poster.</li>
+</ol>
+<p>Models: <code>gpt-4.1-mini</code> (OpenAI API) and <code>claude-haiku-4-5-20251001</code> (Anthropic API), queried 28 September 2026.</p>
+
+<h2>C. Use of generative AI (GenAI)</h2>
+<p>As required by the declaration below, all GenAI tools used for this work are listed here with their product names.
+GenAI-generated content is marked in this section rather than passage by passage, because it covers most of the poster.</p>
+<ol>
+<li><b>Claude (Anthropic), via the Claude desktop app (Cowork mode).</b> Used to: write and debug the prompting runner
+(<code>run_polbix.py</code>), the CLMET download and pair-building scripts, and the analysis and poster-building code
+(<code>stats.py</code>, <code>figures.py</code>, <code>make_poster.py</code>); pre-select and review the 195 CLMET sentence pairs;
+run the statistical analysis; <b>draft all text on the poster</b> (all four sections, figure captions and discussion);
+design the poster layout and figures; and compile this appendix, including the reference list.</li>
+<li><b>GPT-4.1 mini (OpenAI) and Claude Haiku 4.5 (Anthropic)</b> were the <i>objects of study</i>: their True/False answers
+are the experimental data. They did not write any text of the poster.</li>
+</ol>
+<p>Research question, choice of datasets (PolBiX, CLMET 3.1), models, run size and final review of the poster: the author.</p>
+</body></html>

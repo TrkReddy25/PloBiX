@@ -76,6 +76,11 @@ original study, and adds a check on historical English sentences from CLMET 3.1.
 
 All commands run from the project root.
 
+**1. Download dataset **
+
+download data set and place in parent folder /PloBiX/
+Link to download dataset: 
+
 **1. Set up**
 ```bash
 python3 -m venv .venv

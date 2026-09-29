@@ -75,11 +75,14 @@ original study, and adds a check on historical English sentences from CLMET 3.1.
 ## How to reproduce
 
 All commands run from the project root.
+‍‍‍‍‍‍‍‍
+## Dataset Download
 
-**1. Download dataset **
+1. Download the dataset from the following link:
+   [Google Drive Dataset](https://drive.google.com/drive/folders/1IDTE4Myj3hBDy9XcSCy4pInSFfg8hKBX?usp=share_link)
 
-download data set and place in parent folder /PloBiX/
-Link to download dataset: 
+2. Place the downloaded dataset inside the parent folder:
+   `/PloBiX/`
 
 **1. Set up**
 ```bash
